@@ -1,8 +1,8 @@
-#Service
+# Service
 
 Nos encontramos con la lógica del proyecto  
 
-#Funciones
+## Funciones
 - reservar vuelos  
 - validar asientos  
 - generar boletos  
